@@ -1,0 +1,4 @@
+node_modules
+templates_c
+npm-debug.log
+.DS_Store
